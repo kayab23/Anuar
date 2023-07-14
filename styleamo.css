@@ -1,5 +1,13 @@
 .a2{
     display: flex;
     justify-content: center;
-    flex: grow 3;
+    
+
 }
+.enlace{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+
